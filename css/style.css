@@ -1,0 +1,20 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-header{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: blueviolet;
+}
+.sub-header{
+    text-align: center;
+    font-size: 30px;
+}
+.ing-links li{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+    color: #000000;
+}
